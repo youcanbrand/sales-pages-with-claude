@@ -28,7 +28,9 @@ Build a funnel that sells while you live your life — using AI to keep it simpl
 
 ## Beta Rebellion evergreen webinar (the thing we're building)
 - **Who it's for:** Lisa — see my-one-person.md.
-- **Core webinar promise:** stop guessing. Rebel against launch-and-pray. Learn the simple way to KNOW what people will pay for and validate before you build — proof in your body first, proof in the bank second.
+- **Webinar title/promise (confirmed 2026-07-27):** "How to generate your first $10k BEFORE your course is built — without a list and with zero sales skills."
+- **The three objections it dissolves:** (1) you don't need the course built, (2) you don't need a list, (3) you don't need to be good at sales.
+- **Underlying angle:** stop guessing. Rebel against launch-and-pray. Get paid to validate BEFORE you build. Proof in the bank first, then build with confidence.
 - **Strongest proof asset:** Lisa herself (astrologer who found her real business through Beta Rebellion). Use as open or close.
 - ⚠️ Needs from Jenna: exact price, funnel steps (opt-in → webinar → offer → follow-up), and current registration/close mechanics.
 

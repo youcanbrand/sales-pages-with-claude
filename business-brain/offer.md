@@ -31,6 +31,9 @@ Build a funnel that sells while you live your life — using AI to keep it simpl
 - **Webinar title/promise (confirmed 2026-07-27):** "How to generate your first $10k BEFORE your course is built — without a list and with zero sales skills."
 - **The three objections it dissolves:** (1) you don't need the course built, (2) you don't need a list, (3) you don't need to be good at sales.
 - **Underlying angle:** stop guessing. Rebel against launch-and-pray. Get paid to validate BEFORE you build. Proof in the bank first, then build with confidence.
+- **The actual mechanism = the "live beta filming method":** Jenna has gotten paid to build a course before it existed, using a live beta filming method to take an offer from **Free → Paid.** Students get paid to build the course as they go.
+- ⚠️ GAP: the step-by-step of the live beta filming method (how first $10k happens with no list + no sales skills) is NOT yet captured. DO NOT invent it. Get it from Jenna before writing webinar/email copy about the method.
+- **DO NOT CONFLATE:** the $6M / 22-launches / $500k-debt story is the *partner-era "launch and pray" cautionary tale.* It is NOT the Beta Rebellion method and does not belong in copy about the $10k process.
 - **Strongest proof asset:** Lisa herself (astrologer who found her real business through Beta Rebellion). Use as open or close.
 - ⚠️ Needs from Jenna: exact price, funnel steps (opt-in → webinar → offer → follow-up), and current registration/close mechanics.
 
